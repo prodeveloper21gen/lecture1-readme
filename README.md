@@ -77,7 +77,82 @@ However, there are some differences between them.
 <br>
 <img style="width: 91%; margin-left: 5%;" src="image copy 13.png">
 <br><br><br>
-
+<h1 style="text-align: center; color: black; border-radius: 20px; font-size: 40px; background-color: white;">JavaScript Arithmetic Operators</h1>
+<br>
+<img style="width: 91%; margin-left: 5%;" src="image copy 14.png">
+<br><br><br>
+<h1 style="text-align: center; color: black; border-radius: 20px; font-size: 40px; background-color: white;">Operators IN JavaScript</h1>
+<br>
+<img style="width: 91%; margin-left: 5%;" src="image copy 15.png">
+<br><br><br>
+<h1 style="text-align: center; color: black; border-radius: 20px; font-size: 40px; background-color: white;">LOGICal OPERATORS : AND(&&), OR( | | ), NOT(!)t</h1>
+<br>
+<img style="width: 91%; margin-left: 5%;" src="image copy 13.png">
+<br><br><br>
+<h1 style="text-align: center; color: black; border-radius: 20px; font-size: 40px; background-color: white;">Comparison operators</h1>
+<br>
+<img style="width: 91%; margin-left: 5%;" src="image copy 16.png">
+<br><br><br>
+<h1 style="text-align: center; color: black; border-radius: 20px; font-size: 40px; background-color: white;">ASSIGNMENT operators</h1>
+<br>
+<img style="width: 91%; margin-left: 5%;" src="image copy 17.png">
+<br><br><br>
+<h1 style="text-align: center; color: black; border-radius: 20px; font-size: 40px; background-color: white;">JavaScript Type Conversions</h1>
+<br>
+<img style="width: 91%; margin-left: 5%;" src="image copy 18.png">
+<br><br><br>
+<h1 style="text-align: center; color: black; border-radius: 20px; font-size: 40px; background-color: white;">JavaScript Type Conversions</h1>
+<h1 style="text-align: center; color: black; border-radius: 20px; font-size: 40px; background-color: white;">■ 01 CONDITIONS </h1>
+<h1 style="text-align: center; color: black; border-radius: 20px; font-size: 40px; background-color: white;">■ 02 LOOPS</h1>
+<h1 style="text-align: center; color: black; border-radius: 20px; font-size: 40px; background-color: white;">■ 03 FUNCTIONS </h1>
+<br>
+<img style="width: 91%; margin-left: 5%;" src="image copy 19.png">
+<br><br><br>
+<h1 style="text-align: center; color: black; border-radius: 20px; font-size: 40px; background-color: white;">CONDITION If/else statement</h1>
+<br>
+<img style="width: 91%; margin-left: 5%;" src="image copy 20.png">
+<br><br><br>
+<h1 style="text-align: center; color: black; border-radius: 20px; font-size: 40px; background-color: white;">CONDITION Ternary operator</h1>
+<br>
+<img style="width: 91%; margin-left: 5%;" src="image copy 21.png">
+<br><br><br>
+<h1 style="text-align: center; color: black; border-radius: 20px; font-size: 40px; background-color: white;">CONDITION Switch statment</h1>
+<br>
+<img style="width: 91%; margin-left: 5%;" src="image copy 22.png">
+<br><br><br>
+<h1 style="text-align: center; color: black; border-radius: 20px; font-size: 40px; background-color: white;">LOOP for</h1>
+<br>
+<img style="width: 91%; margin-left: 5%;" src="image copy 23.png">
+<br><br><br>
+<h1 style="text-align: center; color: black; border-radius: 20px; font-size: 40px; background-color: white;">LOOP while</h1>
+<br>
+<img style="width: 91%; margin-left: 5%;" src="image copy 24.png">
+<br><br><br>
+<h1 style="text-align: center; color: black; border-radius: 20px; font-size: 40px; background-color: white;">LOOP Do/while</h1>
+<br>
+<img style="width: 91%; margin-left: 5%;" src="image copy 25.png">
+<br><br><br>
+<h1 style="text-align: center; color: black; border-radius: 20px; font-size: 40px; background-color: white;">FUNCTIONS</h1>
+<br>
+<img style="width: 91%; margin-left: 5%;" src="image copy 26.png">
+<br><br><br>
+<h1 style="text-align: center; color: black; border-radius: 20px; font-size: 40px; background-color: white;">FUNCTION Declaration</h1>
+<br>
+<img style="width: 91%; margin-left: 5%;" src="image copy 27.png">
+<br><br><br>
+<h1 style="text-align: center; color: black; border-radius: 20px; font-size: 40px; background-color: white;">FUNCTION expression</h1>
+<br>
+<img style="width: 91%; margin-left: 5%;" src="image copy 28.png">
+<br><br><br>
+<h1 style="text-align: center; color: black; border-radius: 20px; font-size: 40px; background-color: white;">FUNCTION iife</h1>
+<br>
+<img style="width: 91%; margin-left: 5%;" src="image copy 29.png">
+<br><br><br>
+<h1 style="text-align: center; color: black; border-radius: 20px; font-size: 40px; background-color: white;">FUNCTION REVIEW: ANATOMY of a function</h1>
+<br>
+<img style="width: 91%; margin-left: 5%;" src="image copy 30.png">
+<br><br><br>
+<h1 style="text-align: center; color: black; border-radius: 20px; font-size: 40px; background-color: white;">THANK FOR READING MY LECTURE</h1>
 
 
 
